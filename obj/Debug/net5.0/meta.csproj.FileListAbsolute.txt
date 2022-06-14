@@ -1,0 +1,16 @@
+c:\Users\103994960\Documents\meta\bin\Debug\net5.0\meta.exe
+c:\Users\103994960\Documents\meta\bin\Debug\net5.0\meta.deps.json
+c:\Users\103994960\Documents\meta\bin\Debug\net5.0\meta.runtimeconfig.json
+c:\Users\103994960\Documents\meta\bin\Debug\net5.0\meta.runtimeconfig.dev.json
+c:\Users\103994960\Documents\meta\bin\Debug\net5.0\meta.dll
+c:\Users\103994960\Documents\meta\bin\Debug\net5.0\ref\meta.dll
+c:\Users\103994960\Documents\meta\bin\Debug\net5.0\meta.pdb
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\meta.csproj.AssemblyReference.cache
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\meta.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\meta.AssemblyInfoInputs.cache
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\meta.AssemblyInfo.cs
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\meta.csproj.CoreCompileInputs.cache
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\meta.dll
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\ref\meta.dll
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\meta.pdb
+c:\Users\103994960\Documents\meta\obj\Debug\net5.0\meta.genruntimeconfig.cache
