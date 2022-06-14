@@ -83,7 +83,7 @@ namespace challenge2
                 // Rollin', rollin', rollin' on the river
                 for (int i = 0; i < x; i++)
                 {
-                    game.AddDie(6);
+                    game.AddDie();
                 }
                 game.RollAllDice();
                 Console.WriteLine($"You have successfully added {x} item{(x == 1 ? "" : "s")}");
